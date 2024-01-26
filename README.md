@@ -3,6 +3,7 @@
 
 Here a mod that will replace Joker final smash with Freddy.
 
+i'm too lazy to put the next source code
 
 ## Screenshots
 
